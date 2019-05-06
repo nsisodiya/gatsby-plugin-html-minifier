@@ -1,6 +1,6 @@
 # gatsby-plugin-html-minifier
 
-A Gatsby plugin to easily minify HTML file
+A Gatsby plugin to easily minify HTML file.
 
 ## Installation
 
@@ -34,3 +34,7 @@ module.exports = {
     ]
 };
 ```
+
+## Options
+
+See all options at https://github.com/kangax/html-minifier
