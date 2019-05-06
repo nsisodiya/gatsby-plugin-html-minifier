@@ -1,0 +1,21 @@
+{
+    "name": "gatsby-plugin-html-minifier",
+    "version": "1.0.0",
+    "description": "A Gatsby plugin to easily minify HTML file",
+    "main": "gatsby-node.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "peerDependencies": {
+        "html-minifier": "^4.0.0"
+    },
+    "keywords": [
+        "gatsby",
+        "gatsby-plugin",
+        "gatsby-plugin-html-minifier",
+        "html",
+        "minifier"
+    ],
+    "author": "Narendra Sisodiya <narendra.sisodiya.1983@gmail.com> (http://narendrasisodiya.com)",
+    "license": "MIT"
+}
