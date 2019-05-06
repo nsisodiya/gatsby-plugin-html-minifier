@@ -7,6 +7,10 @@
     "peerDependencies": {
         "html-minifier": "^4.0.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nsisodiya/gatsby-plugin-html-minifier.git"
+    },
     "keywords": [
         "gatsby",
         "gatsby-plugin",
@@ -15,5 +19,9 @@
         "minifier"
     ],
     "author": "Narendra Sisodiya <narendra.sisodiya.1983@gmail.com> (http://narendrasisodiya.com)",
-    "license": "MIT"
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nsisodiya/gatsby-plugin-html-minifier/issues"
+    },
+    "homepage": "https://github.com/nsisodiya/gatsby-plugin-html-minifier#readme"
 }
