@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "A Gatsby plugin to easily minify HTML file",
     "main": "gatsby-node.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "scripts": {},
     "peerDependencies": {
         "html-minifier": "^4.0.0"
     },
